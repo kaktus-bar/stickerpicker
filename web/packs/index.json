@@ -1,6 +1,7 @@
 {
   "packs": [
-    "potnye_memesy.json"
+    "potnye_memesy.json",
+    "S_he_s_right.json"
   ],
   "homeserver_url": "https://matrix.aisa.ru"
 }
